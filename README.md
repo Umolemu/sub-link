@@ -10,7 +10,7 @@ Sublink is a full-stack mobile subscription management portal built with:
 - Node.js 18+
 - PowerShell
 
-## Setup
+## Setup (Windows)
 
 1. Backend
 
