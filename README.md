@@ -35,7 +35,7 @@ cd ..;
 cd server; 
 npm run dev   
 
-Start Frontend (port(PORT)):
+Start Frontend (Port 5173):
 cd front-end; 
 npm run dev
 
