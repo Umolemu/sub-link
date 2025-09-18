@@ -27,8 +27,6 @@ npm install
 create an env file in the root of client
 add the values
 
-VITE_API_URL=http://localhost:<PORT> <------ port you want the application to run on
-
 VITE_BACKEND_API=http://localhost:<PORT> <----- Same port as the backend env's PORT
 
 # Run 
